@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/pawincpe/golang-key-rotation/pkg/keyrotation"
+	"github.com/pawincpe/key-rotation/pkg/keyrotation"
 )
 
 func main() {
